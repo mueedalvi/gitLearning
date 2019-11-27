@@ -1,3 +1,4 @@
 this is 2nd git file
 learn java, selenium, TestNG
 SQL
+git is fun and kinda boring at the same time.
